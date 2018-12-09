@@ -1,1 +1,2 @@
-quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+quoteServiceURL:
+#### http://quotes.rest/qod.json?category=inspirehttp://quote-service-qa.cfapps.io/quote
