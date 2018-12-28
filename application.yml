@@ -6,5 +6,5 @@ management:
   security:
     enabled: false
 
-logging:
-  level: DEBUG
+#logging:
+  #level: DEBUG
