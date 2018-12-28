@@ -9,4 +9,4 @@ management:
 logging: # <----New sections below
   level:
     com:
-      microservices: DEBUG
+      item: DEBUG
